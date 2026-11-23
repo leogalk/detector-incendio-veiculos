@@ -8,7 +8,7 @@ Projeto desenvolvido para a disciplina de **Projetos com Aprendizado de Máquina
 
 ## Acesso ao video de explicação
 * **Link público :** [https://www.youtube.com/watch?v=E1519aetctM]
-* 
+ 
 ## Acesso à Aplicação Online (Deploy)
 * **Link público funcional:** [https://detector-incendio-veiculos.streamlit.app/]
 
